@@ -1,4 +1,4 @@
-# WebMasters2022 Codes
+# WebMasters2022 Event
 
 Source code of the WebMasters 2022's workshops.
 
